@@ -9,7 +9,7 @@ Write your code in this editor and press "Run" button to execute it.
 public class Main
 {
 	public static void main(String[] args) {
-// 		System.out.println("Hello World");
+// 		insertion sort
         int a[]={3,5,2,1,7,4,10,8};
         for(int i=1;i<a.length;i++)
         {
